@@ -7,11 +7,11 @@ const Feed = () => {
   const [posts, setPosts] = useState([
     {
       id: uuid(),
-      userName: "Hager Amr",
+      userName: "Menna Amr",
       userImage:
         "https://i.pinimg.com/736x/33/9c/01/339c01bb766c016892791baf3e8eebc2.jpg",
       date: "May 9, 2025",
-      content: " :) صباح الخير",
+      content: " :💜صباح الخير",
       postImage:
         "https://i.pinimg.com/736x/e0/4a/fb/e04afbbb95426d86cb34b31bcf9f1571.jpg",
       likes: 124,
@@ -19,8 +19,21 @@ const Feed = () => {
     },
     {
       id: uuid(),
+      userName: "Ghada Ahmed",
+      userImage:
+        "https://i.pinimg.com/736x/f1/92/d6/f192d66e9dad3f99dcd07b47345b25be.jpg",
+      date: "May 8, 2025",
+      content: "Prrety Little Baby Iam So in love With You 💕💕💕",
+      postImage:
+        "https://i.pinimg.com/736x/48/1e/59/481e59cf87a367857dfcb3a73c948fa3.jpg",
+      likes: 87,
+      isLiked: true,
+    },
+    {
+      id: uuid(),
       userName: "Menna Salem",
-      userImage: "https://i.pravatar.cc/150?img=45",
+      userImage:
+        "https://i.pinimg.com/736x/7c/a1/b8/7ca1b819118d765889f4e12b22e01640.jpg",
       date: "May 8, 2025",
       content: "Trying out a new pasta recipe 🍝 Anyone wants some?",
       postImage:
@@ -30,8 +43,9 @@ const Feed = () => {
     },
     {
       id: uuid(),
-      userName: "Sara Salah",
-      userImage: "https://i.pravatar.cc/150?img=45",
+      userName: "Doaa Mohamed",
+      userImage:
+        "https://i.pinimg.com/736x/10/17/20/10172063881a9c3f0a957e019f5fd26d.jpg",
       date: "May 8, 2025",
       content: "No Risk No Fun",
       postImage:
@@ -42,7 +56,8 @@ const Feed = () => {
     {
       id: uuid(),
       userName: "Doaa Mohamed",
-      userImage: "https://i.pravatar.cc/150?img=45",
+      userImage:
+        "https://i.pinimg.com/736x/10/17/20/10172063881a9c3f0a957e019f5fd26d.jpg",
       date: "May 8, 2025",
       content: "Any Review?",
       postImage:
