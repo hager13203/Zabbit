@@ -1,12 +1,48 @@
-# React + Vite
+# Zabbit 🐰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zabbit is a simple social media app built with **React** and **Material UI**. It displays a feed of posts and serves as a practice project to explore Material UI components, React Router, and React Hooks.
+> 💡 This project was my **first-time practice using Material UI** to learn how to build responsive, styled components using the library.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🧱 Built with **React** and **Material UI**
+- 🧭 Navigation using **React Router**
+- 📄 Responsive Design
+- 🎨 UI components styled using Material UI
+- ⚛️ Functional components with **useState** 
+- 🔄 React Hooks for dynamic UI updates
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Tech Stack
+
+- **React**
+- **Material UI**
+- **Material UI Icons**
+- **React Router**
+- **React Hooks**
+
+---
+Home:
+
+![image](https://github.com/user-attachments/assets/be7baf62-3432-4931-97fc-59cbd7878679)
+
+---
+
+Home Page on Small Screens:
+
+![image](https://github.com/user-attachments/assets/d81f95ea-09aa-4988-a795-d3b4f0917982)
+
+---
+
+Register:
+
+![image](https://github.com/user-attachments/assets/9bfd7268-4379-4148-8dad-21b9b081ee67)
+
+---
+
+Login:
+
+![image](https://github.com/user-attachments/assets/1a0ab06a-6594-49a4-bf4f-e77a0aef769f)
